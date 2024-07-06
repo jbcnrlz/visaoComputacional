@@ -79,4 +79,4 @@ CNNs são uma classe de redes neurais profundas, mais comumente aplicadas ao pro
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/jbcnrlz/visaoComputacional.git
