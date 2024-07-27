@@ -56,12 +56,6 @@ HOG é uma técnica para extração de características usada na visão computac
 - Extração de características HOG
 - Aplicação de HOG para reconhecimento de objetos
 
-## SIFT (Transformada Invariante a Escala e Rotação)
-
-SIFT é uma técnica para detectar e descrever características locais em imagens. Códigos incluídos:
-- Detecção de pontos chave usando SIFT
-- Descritores SIFT para correspondência de imagens
-
 ## LBP (Padrão Binário Local)
 
 LBP é uma técnica para descrição de textura em imagens. Exemplos de códigos:
